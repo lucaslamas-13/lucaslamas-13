@@ -4,8 +4,8 @@
 
 <div>
    <a href="https://github.com/lucaslamas-13">
-   <img widht="42%" src="https://github-readme-stats.vercel.app/api?username=lucaslamas-13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-   <img widht="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslamas-13">
+   <img widht="42%" heigth="180em" src="https://github-readme-stats.vercel.app/api?username=lucaslamas-13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+   <img widht="42%" heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslamas-13">
 </div>
 
 <div style="display: inline_block"><br>
