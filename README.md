@@ -1,16 +1,11 @@
-- 🔭 Estou Estudando no momento
+- 🔭 Estou Estudando BackEnd
 - 🌱 Aprendendo Node.js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ✉️ Contate-me no email: lucaslamas@gmail.com
 
 <div>
    <a href="https://github.com/lucaslamas-13">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucaslamas-13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslamas-13">
+   <img widht="42%" src="https://github-readme-stats.vercel.app/api?username=lucaslamas-13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+   <img widht="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslamas-13">
 </div>
 
 <div style="display: inline_block"><br>
