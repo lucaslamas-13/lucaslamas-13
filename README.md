@@ -1,5 +1,7 @@
-- 🔭 Estou Estudando BackEnd
-- 🌱 Aprendendo Node.js
+- 🔭 Desenvolvedor Full Stack com conhecimentos em HTML, CSS, JavaScript, TypeScript, Git, GitHub, React.js, Node.js, Express, PostgreSQL.
+- 👀 Conhecimento em bibliotecas como: Axios, React Router, Reack Hook Form, Yup, Zod, Styled Components, TypeORM, bcryptjs e jsonwebtoken
+- 🌳 Conhecimento em Inglês avançado em conversação e escrita, leitura intermediário
+- 🌱 Aprendendo Next.js
 - ✉️ Contate-me no email: lucaslamas@gmail.com
 
 <div>
