@@ -1,7 +1,7 @@
 - 🔭 Desenvolvedor Full Stack com conhecimentos em HTML, CSS, JavaScript, TypeScript, Git, GitHub, React.js, Node.js, Express, PostgreSQL.
 - 👀 Conhecimento em bibliotecas como: Axios, React Router, Reack Hook Form, Yup, Zod, Styled Components, TypeORM, bcryptjs e jsonwebtoken
 - 🌳 Conhecimento em Inglês intermediário em conversação e avançado em escrita e leitura
-- 🌱 Aprendendo Next.js
+- 🌱 Aprendendo Next.js e Java
 - ✉️ Contate-me no email: lucaslamas@gmail.com
 
 <div>
